@@ -25,7 +25,7 @@ val Shapes = Shapes(
         topStart = 32.dp,
         topEnd = 32.dp,
         bottomStart = 32.dp,
-        bottomEnd = 32.dpUbah tampilan Card menjadi full rounded dengan ukuran 32dp
+        bottomEnd = 32.dp
     ),
     medium = RoundedCornerShape(
         topStart = 32.dp,
